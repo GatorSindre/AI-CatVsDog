@@ -1,0 +1,1 @@
+Making my own neural network / AI
