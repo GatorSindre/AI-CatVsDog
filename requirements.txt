@@ -1,0 +1,8 @@
+torch
+torchvision
+tensorboard
+pyperclip
+notify_py
+pyautogui
+keyboard
+pyttsx3
